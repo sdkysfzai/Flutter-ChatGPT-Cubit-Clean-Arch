@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         )
       ],
       child: MaterialApp(
-        title: 'Flutter ChatGPT',
+        title: 'Flutter ChatGPT - Clean Architecture',
         debugShowCheckedModeBanner: false,
         darkTheme: ThemeData.dark(),
         onGenerateRoute: OnGenerateRoute.route,
